@@ -1,0 +1,89 @@
+[
+  {
+    "id": "8bda7112-3e6b-45a7-b720-620009d5c3ba",
+    "data": [
+      {
+        "text": "What does Rose mean to you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bd7a9122-8895-4423-907c-eef99672baac",
+    "data": [
+      {
+        "text": "What\u0027s Rose?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f75ac6fb-a0b3-455b-907c-c5f21a62a20f",
+    "data": [
+      {
+        "text": "What\u0027s your purpose?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3e785940-3293-4a27-9621-25a20fb3b4aa",
+    "data": [
+      {
+        "text": "Who is ",
+        "userDefined": false
+      },
+      {
+        "text": "Rose",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "45f52198-b681-461f-bd5d-39dae1b46cf7",
+    "data": [
+      {
+        "text": "Who are you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "018717a4-527b-4f35-9a0e-83b868ec0b04",
+    "data": [
+      {
+        "text": "Tell me about yourself",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

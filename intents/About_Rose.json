@@ -1,0 +1,36 @@
+{
+  "id": "8525354f-ab5b-406c-b87f-f7d955ee6e01",
+  "name": "About_Rose",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I am a google assistant friend - Rose, I am here to put you through riddles and to have other conversations. Fun Fact - I am a black rose :)",
+            "I am Rose, google assistant friend. I can help some conversations improving your awareness and fairness in your interaction. \nHere a Fun Fact - I am a black rose :)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

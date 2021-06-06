@@ -1,0 +1,35 @@
+{
+  "id": "2118c20f-00b5-4427-bfbc-6d28d6689ad4",
+  "name": "details_unconsciousBias",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Unconscious Bias operates outside of the person’s actual awareness. It may be unintentional or pre existing \"normal\" for some one...\nUnconscious Bias is more as a stereotype that\u0027s already set in society sometimes..."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

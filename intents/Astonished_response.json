@@ -1,0 +1,50 @@
+{
+  "id": "e6108c33-3221-418f-bcb8-9a8b62d135e8",
+  "name": "Astonished_response",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "26a6b37d-99c6-4039-8662-b84adbb9bb4b",
+          "name": "disgust",
+          "required": false,
+          "dataType": "@Disgust",
+          "value": "$disgust",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I know, u missed it. Its a stereotype that exists and its part of unconscious bias, want to know more? Ask what\u0027s unconscious bias..."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,57 @@
+[
+  {
+    "id": "97b73336-0504-4539-a2fa-35ccbff41508",
+    "data": [
+      {
+        "text": "I don\u0027t know, the answer of second riddle",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b1c66f71-bc6d-4762-aaaf-6fdcc212fdcc",
+    "data": [
+      {
+        "text": "answer for the ",
+        "userDefined": false
+      },
+      {
+        "text": "second",
+        "meta": "@sys.ordinal",
+        "alias": "ordinal",
+        "userDefined": false
+      },
+      {
+        "text": " riddle",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7be1d686-7a28-4ce9-a564-dfff2cd8c001",
+    "data": [
+      {
+        "text": "answer of riddle",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "id": "9ade7484-ddd0-4efb-a303-5b1bc3eada62",
+  "name": "Disgust",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

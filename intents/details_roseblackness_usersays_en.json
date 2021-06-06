@@ -1,0 +1,115 @@
+[
+  {
+    "id": "d40064b7-0306-472c-805d-9e554f74e169",
+    "data": [
+      {
+        "text": "Why ",
+        "userDefined": false
+      },
+      {
+        "text": "black",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9460927a-fe62-4ecc-a067-a35dcf465335",
+    "data": [
+      {
+        "text": "black",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " rose?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "552032fe-66cc-4fbe-86a8-d2aad10f1851",
+    "data": [
+      {
+        "text": "aren\u0027t rose ",
+        "userDefined": false
+      },
+      {
+        "text": "red",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": ",  why are you ",
+        "userDefined": false
+      },
+      {
+        "text": "black",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1b458f75-e641-4c99-b4c1-34b137d6cd28",
+    "data": [
+      {
+        "text": "I thought roses are ",
+        "userDefined": false
+      },
+      {
+        "text": "red",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "05ae9dc7-60f8-45e0-8e61-28ee340adcbd",
+    "data": [
+      {
+        "text": "I thought there is only ",
+        "userDefined": false
+      },
+      {
+        "text": "red",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " roses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

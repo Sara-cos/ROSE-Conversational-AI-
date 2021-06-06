@@ -1,0 +1,89 @@
+[
+  {
+    "id": "61b455f9-d475-49da-a2a5-7a0b5b9ac1ab",
+    "data": [
+      {
+        "text": "Are you lesbian?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b36a48d0-99eb-4851-8c41-cfd16dd51168",
+    "data": [
+      {
+        "text": "Are you a women?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "abb213ac-902b-48af-99d0-211593f68760",
+    "data": [
+      {
+        "text": "is ",
+        "userDefined": false
+      },
+      {
+        "text": "rose",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " a boy or a girl",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eb820373-49a9-41f5-8495-814c384c9ff4",
+    "data": [
+      {
+        "text": "Why is your name rose but your voice masculine?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8d4a077d-c804-4336-a2c1-8c3ac3c2e0bb",
+    "data": [
+      {
+        "text": "Are you gay?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "168c0ca1-1a07-4693-8c76-afe91ae34386",
+    "data": [
+      {
+        "text": "Are you male?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

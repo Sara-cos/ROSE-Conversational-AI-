@@ -1,0 +1,72 @@
+{
+  "id": "96b0ba3e-320f-4051-87e4-55db541f0878",
+  "name": "details_roseblackness",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "3bb9f8a7-a501-4769-856d-1c1d83815de3",
+          "name": "color",
+          "required": false,
+          "dataType": "@sys.color",
+          "value": "$color",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I am rare, but I exist. My parents are from different genus. I do have some friends who are purple, pink and red."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "messages": [
+              {
+                "attachment": {
+                  "payload": {
+                    "url": "https://i.pinimg.com/564x/2f/73/b3/2f73b30fac035600ea17daf1455985e8.jpg"
+                  },
+                  "type": "image"
+                }
+              },
+              {
+                "text": "I am rare, but I exist. My parents are from different genus. I do have some friends who are purple, pink and red."
+              }
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

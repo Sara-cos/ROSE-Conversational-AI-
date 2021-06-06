@@ -1,0 +1,35 @@
+{
+  "id": "f9345564-fb3c-4ea6-a64a-d62d091a9208",
+  "name": "details_ConsciousBias",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Consciousness, at its simplest is the awareness of surroundings and internal and external existence. In short its its state of being awareness...\nConscious Bias is intentionally engaging in including a bias.\nA Bias can many kind:-\n--\u003e Gender Bias\n--\u003e Racial Bias\n--\u003e Beauty Bias\nand many more."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

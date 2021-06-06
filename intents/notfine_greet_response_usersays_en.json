@@ -1,0 +1,67 @@
+[
+  {
+    "id": "ab9053f5-a1b2-4ea5-b535-a8f32fc7cd6d",
+    "data": [
+      {
+        "text": "not great",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "07b70dfe-838f-4ad8-bd24-4d2329bd1d5b",
+    "data": [
+      {
+        "text": "i am not feeling good",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c2046bd2-70f0-4a69-8a7d-d27c98df8911",
+    "data": [
+      {
+        "text": "I am not good",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f161ca28-5f10-4ec8-bf4b-1026433b2527",
+    "data": [
+      {
+        "text": "its a bad day.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "27a0835e-b6e0-47bc-a2a9-7585ef18f223",
+    "data": [
+      {
+        "text": "I am not fine.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

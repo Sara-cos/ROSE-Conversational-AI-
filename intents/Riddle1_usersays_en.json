@@ -1,0 +1,80 @@
+[
+  {
+    "id": "0d0d29c0-75e9-4685-9d63-08867b1f1226",
+    "data": [
+      {
+        "text": "riddle",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bb2e6c3d-e212-4589-809d-b927f8e9ff58",
+    "data": [
+      {
+        "text": "give me a riddle",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "90ec9ef1-4a3c-44a6-9b9f-dede0019610c",
+    "data": [
+      {
+        "text": "can you give me a riddle",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "71a59684-1630-427b-84a0-0eb87331d42a",
+    "data": [
+      {
+        "text": "i want to solve a riddle",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a907c6d7-c594-44b5-9995-658d5a54b871",
+    "data": [
+      {
+        "text": "tell a riddle",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1827a2cc-c3be-4a38-9e9e-b742ac0100bc",
+    "data": [
+      {
+        "text": "Put me in a riddle",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

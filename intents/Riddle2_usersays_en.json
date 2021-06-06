@@ -1,0 +1,59 @@
+[
+  {
+    "id": "586ca6d7-98bc-424d-9f1c-59348be657a9",
+    "data": [
+      {
+        "text": "one more such riddle",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "81ffed81-b8de-427b-8e83-50e72018cc0a",
+    "data": [
+      {
+        "text": "One",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " more riddle",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "83ec64cf-104a-4b90-9ea5-a559223ac775",
+    "data": [
+      {
+        "text": "Another Riddle",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3316d262-6445-4063-962b-4b0b2fe7c3fe",
+    "data": [
+      {
+        "text": "Tell me another Riddle",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

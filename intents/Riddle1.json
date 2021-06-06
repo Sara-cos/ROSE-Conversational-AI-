@@ -1,0 +1,35 @@
+{
+  "id": "278a1461-9f98-4ccd-b9d1-460e36fc6623",
+  "name": "Riddle1",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Okay, here\u0027s one: Once a father took his son to a company interview. While his father was driving the car, he got a call from the CEO of the company\\n Hey I know you will do well, I believe in you my son, How is this possible?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

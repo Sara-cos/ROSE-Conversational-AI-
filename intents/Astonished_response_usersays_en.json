@@ -1,0 +1,52 @@
+[
+  {
+    "id": "26f5b5b0-f08f-498e-b8de-f1e07c02ecff",
+    "data": [
+      {
+        "text": "What",
+        "meta": "@Disgust",
+        "alias": "disgust",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "309d8711-e812-4aab-9fad-bbb311b486b2",
+    "data": [
+      {
+        "text": "Wow, ",
+        "userDefined": false
+      },
+      {
+        "text": "How",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " did i think that",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7b81011e-a153-41e5-b7cc-e8634df8aeb9",
+    "data": [
+      {
+        "text": "Wow, I did think it through",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
